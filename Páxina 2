@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		 <meta charset="UTF-8">
+		 <title>Tarefa 1.4 - Mini Web Site from the 90's - 2 </title>
+	</head>
+	<body>
+
+<h2>Indice</h2>
+<ol>
+<li><a href="#Enlace">Enlace</a></li>
+<li><a href="#Clasificacións das técnicas">Clasificacións das técnicas</a></li>
+<li><a href="#Audio">Audio</li>
+<li><a href="#Imaxen">Imaxen</li>
+</ol>
+
+<hr>
+
+<h3 id="Enlace">Enlace</h3>
+
+<a href="https://pt.wikipedia.org/wiki/Judo">Wikipédia</a>
+
+<h3 id="Clasificación das técnicas">Clasificación das técnicas</h3>
+
+<table border="1">
+<tr>
+	<td>Técnicas</td> <td>Clasificación</td>
+</tr>
+<tr>
+	<td>Nage-waza (técnicas de proxección)</td> <td>Son aquelas técnicas nas cales buscase desprazar o centro de gravedade do rival para que este perda o equilibrio e despois facelo caer mediante un lanzamento ou derribo.</td>
+</tr>
+<tr>
+	<td>Katame-waza (técnicas de chan)</td> <td>Son aquel grupo de técnicas baseadas no control do adversario de forma que a sua mobilidade quede reducida hasta que non poida infrinxir danos.</td>
+</tr>
+<tr>
+	<td>Atemi-waza (golpes)</td> <td>Esta categoría inclue técnicas de golpeo rápido ao corpo, aínda que non se detalla na clasificación principal de técnicas de judo.</td>
+</tr>
+
+</table>
+
+<h3 id="Audio">Audio</h3>
+
+<iframe frameborder="0" scrolling="no" src="https://freesound.org/embed/sound/iframe/862876/simple/small/" width="375" height="30"></iframe>
+
+<hr>
+
+<h3 id="Imáxen">Imaxen</h3>
+
+<img src="1000_F_178212788_RjGs88jtvdjCPYGmtCozHk287Wb2F02W.jpg" alt="Imaxe dunha técnica de judo"></img>
+
+	</body>
+</html>
